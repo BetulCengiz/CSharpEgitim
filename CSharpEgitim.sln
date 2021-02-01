@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim", "CSharpEgitim\CSharpEgitim.csproj", "{25F27BE0-2F8F-4952-8265-0316AB78DC3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpEgitim", "CSharpEgitim\CSharpEgitim.csproj", "{25F27BE0-2F8F-4952-8265-0316AB78DC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{B983D2EE-ADB0-418C-AE96-8863BA1A84B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{B983D2EE-ADB0-418C-AE96-8863BA1A84B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{16BC9FBE-8775-491D-8F24-639D49255104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{16BC9FBE-8775-491D-8F24-639D49255104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{5A0FCD71-4A13-435A-ABA0-F9C2980A4349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{5A0FCD71-4A13-435A-ABA0-F9C2980A4349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{9A474BC9-047A-41EB-8F56-FCE73E472002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{9A474BC9-047A-41EB-8F56-FCE73E472002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{C8B71840-36AF-48E6-BABE-2AB7CC927C44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{C8B71840-36AF-48E6-BABE-2AB7CC927C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{8E4D8852-6D76-4435-8816-D4E3B0AA56B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{8E4D8852-6D76-4435-8816-D4E3B0AA56B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{79F35CDA-B1F1-4610-8890-49040BD8A672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8E4D8852-6D76-4435-8816-D4E3B0AA56B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E4D8852-6D76-4435-8816-D4E3B0AA56B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E4D8852-6D76-4435-8816-D4E3B0AA56B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F35CDA-B1F1-4610-8890-49040BD8A672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F35CDA-B1F1-4610-8890-49040BD8A672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F35CDA-B1F1-4610-8890-49040BD8A672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F35CDA-B1F1-4610-8890-49040BD8A672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
