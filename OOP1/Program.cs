@@ -19,10 +19,17 @@ namespace OOP1
             //PascalCase  //camelCase
             //case sensitive(büyük küçük harf duyarlılığı
             ProductManager productManager = new ProductManager();
-            productManager.Add();
+            productManager.Add(product1);
 
+            // int,double,bool....değer tip >>bağlantı kopar değişmez
+            // diziler,class,abstraact class,interface..... referans tip >> değişir
 
+            //void vs int...
+            productManager.Topla2(3, 6);
 
+            
+            int sonuc = productManager.Topla(3, 6);
+            Console.WriteLine(sonuc*5);
         }
     }
 }
